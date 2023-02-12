@@ -2,22 +2,16 @@
 
  Marketing agency ***Horiseon*** has engaged Jvn101 Software to improve their codebase to follow accessibility standards and optimise the site for search engines
  
- The codebase has been optimised without distorting the mockup proviided by the client:
+ The codebase has been optimised without distorting the mockup provided by the client:
  
- 
- 
- 
- 
- 
- Link to deployment:
- 
- ! Horiseon Website (assets/images/Horiseon-Website-Mockup.png)
+ ![Horiseon Website](assets/images/Horiseon-Website-Mockup.png) 
  
  ***
+ Link to the deployed site:
+ ***
  
-Contact our developer <br />
+Contact our developer for any questions <br />
 <JVN101@software.com>
 
-Repository contains quality README file with description, screenshot, and link to deployed application.
 
             
