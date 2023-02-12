@@ -11,7 +11,7 @@
  
  Link to deployment:
  
- ! Horiseon Website (assets/images/)
+ ! Horiseon Website (assets/images/Horiseon-Website-Mockup.png)
  
  ***
  
