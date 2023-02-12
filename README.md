@@ -8,6 +8,7 @@
  
  ***
  Link to the deployed site:
+ [Horiseon](https://jvn101.github.io/01-Code-Refactor-Client-Horiseon/)
  ***
  
 Contact our developer for any questions <br />
